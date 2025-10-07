@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: because it is very fast on sorted datasets but slow on large or reversed datasets
+
+sort2 uses: Merge Sort
+
+How do you know?: because it is overall fast, has O(n log n ) complexity
+
+sort3 uses: Selection Sort
+
+How do you know?: It is very slow, especially on large datasets. It is inefficient due to O(n^2) complexity
